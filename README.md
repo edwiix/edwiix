@@ -42,6 +42,10 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=To-Do-List&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/To-Do-List)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=WeatherCheck&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/WeatherCheck)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=MasterCard-FlipFlop&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/MasterCardFlipFlop)
 
 #
 ### 💰 Gimme a Coffee
