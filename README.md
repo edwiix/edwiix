@@ -45,7 +45,7 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=MasterCard-FlipFlop&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/MasterCardFlipFlop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=MasterCard-FlipFlop&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/MasterCard-FlipFlop)
 
 #
 ### 💰 Gimme a Coffee
