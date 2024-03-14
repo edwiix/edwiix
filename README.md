@@ -57,5 +57,5 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 </p>
 
 <a href="https://twitter.com/edwiiy">
-<img width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<img width="21px" src="https://simpleicons.org/icons/x.svg" />
 
