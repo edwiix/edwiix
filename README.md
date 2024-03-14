@@ -24,28 +24,27 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 
 #
 ### 🧸 Stuffs I Drew On
-> **Try [Text-To-Speech](https://edwiix.github.io/TextToSpeech/) App <a href="https://edwiix.github.io/TextToSpeech/"/>**
+> **Try [Text-To-Speech](https://edwiix.github.io/TextToSpeech/) App. <a href="https://edwiix.github.io/TextToSpeech/"/>**
 
-> **Flipping [Master Card](https://edwiix.github.io/MasterCard-FlipFlop/) UI design <a href="https://edwiix.github.io/MasterCard-FlipFlop/">**
+> **Flipping [Master Card](https://edwiix.github.io/MasterCard-FlipFlop/) UI design. <a href="https://edwiix.github.io/MasterCard-FlipFlop/">**
 
-> **Find [Weather Forecast](https://edwiix.github.io/WeatherCheck/) of your city <a href="https://edwiix.github.io/WeatherCheck/">**
+> **Find [Weather Forecast](https://edwiix.github.io/WeatherCheck/) of your city. <a href="https://edwiix.github.io/WeatherCheck/">**
 
-> **Use the [To-Do](https://edwiix.github.io/To-Do-List/) List; don't leave anything <a href="https://edwiix.github.io/To-Do-List/"/>**
+> **Use the [To-Do](https://edwiix.github.io/To-Do-List/) List; Don't leave anything. <a href="https://edwiix.github.io/To-Do-List/"/>**
 
 #
 ### 🚀 Language Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwiix&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-<br>
 
 #
 ### 💡 Top Picks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=To-Do-List&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/To-Do-List)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=WeatherCheck&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/WeatherCheck)
-&nbsp;
+
+#
+## 🎮 Write-Ups
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)
-&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=MasterCard-FlipFlop&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/MasterCard-FlipFlop)
 
 #
 ### 💰 Gimme a Coffee
