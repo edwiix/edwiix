@@ -34,18 +34,18 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 
 #
 ### 🚀 Language Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwiix&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edwiix&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 <br>
 
 #
 ### 💡 Top Picks
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=To-Do-List&theme=gotham&hide_border=false)](https://github.com/edwiix/To-Do-List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=To-Do-List&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/To-Do-List)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=WeatherCheck&theme=gotham&hide_border=false)](https://github.com/edwiix/WeatherCheck)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=WeatherCheck&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/WeatherCheck)
 
 #
 #### 💸 Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
 
 #
 ### 💰 Gimme a Coffee
