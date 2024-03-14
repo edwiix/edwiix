@@ -24,13 +24,13 @@ A goal-oriented Frontend Developer with knowledge of HTML, CSS, JavaScript seeki
 
 #
 ### 🧸 Stuffs I Drew On
-> **Try [Text-To-Speech](https://batman4gc.github.io/TextToSpeech/) App <a href="https://batman4gc.github.io/TextToSpeech/"/>**
+> **Try [Text-To-Speech](https://edwiix.github.io/TextToSpeech/) App <a href="https://edwiix.github.io/TextToSpeech/"/>**
 
-> **Flipping [Master Card](https://batman4gc.github.io/MasterCard-FlipFlop/) UI design <a href="https://batman4gc.github.io/MasterCard-FlipFlop/">**
+> **Flipping [Master Card](https://edwiix.github.io/MasterCard-FlipFlop/) UI design <a href="https://edwiix.github.io/MasterCard-FlipFlop/">**
 
-> **Find [Weather Forecast](https://batman4gc.github.io/WeatherCheck/) of your city <a href="https://batman4gc.github.io/WeatherCheck/">**
+> **Find [Weather Forecast](https://edwiix.github.io/WeatherCheck/) of your city <a href="https://edwiix.github.io/WeatherCheck/">**
 
-> **Use the [To-Do](https://batman4gc.github.io/To-Do-List/) List; don't leave anything <a href="https://batman4gc.github.io/To-Do-List/"/>**
+> **Use the [To-Do](https://edwiix.github.io/To-Do-List/) List; don't leave anything <a href="https://edwiix.github.io/To-Do-List/"/>**
 
 #
 ### 🚀 Language Stats
