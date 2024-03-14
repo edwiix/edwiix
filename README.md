@@ -1,12 +1,12 @@
 <a href="https://edwiix.github.io/edwiix/"> <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/> </a>
 
-# I'm [Edwin](https://edwiix.github.io/edwiix/) VS <a href="https://edwiix.github.io/edwiix/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# I'm [Edwin VS](https://edwiix.github.io/edwiix/) <a href="https://edwiix.github.io/edwiix/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 **` CyberSecurity Enthusiastic | FrontEnd Developer `**
 
-Ethical hacker and Penetration Tester with a solid background in assessing and fortifying information security. Proven expertise in conducting thorough penetration tests, vulnerability assessment, and security audits to identify and mitigate potential risks.
+Ethical hacker and penetration tester with a solid background in assessing and fortifying information security. Expertise in conducting thorough penetration tests and vulnerability assessment to identify and mitigate potential risks. <br>
 
-A goal-oriented Frontend Developer with knowledge of HTML, CSS, JavaScript seeking to use technical proficiency and creativity to develop engaging user experiences and advance in a professional career.
+Passionate Frontend Developer seeking to use technical proficiency and creativity to develop engaging user experiences and advance in a professional career.
 <br>
 
 #
