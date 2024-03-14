@@ -8,6 +8,14 @@ Ethical hacker and penetration tester with a solid background in assessing and f
 
 Passionate Frontend Developer seeking to use technical proficiency and creativity to develop engaging user experiences and advance in a professional career.
 <br>
+<img align="right" alt="Edwin | Twitter" width="21px" src="https://simpleicons.org/icons/x.svg" />
+</a>
+<a href="https://www.linkedin.com/in/edwin-vs-4432712a5/">
+<img align="right" alt="Edwin | LinkedIn" width="21px" src="https://simpleicons.org/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/edwii.x/">
+<img align="right" alt="Edwin | LinkedIn" width="21px" src="https://simpleicons.org/icons/instagram.svg" />
+</a>
 
 #
 ### 📺 I Do My Stuff With
@@ -44,24 +52,9 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 
 #
 ## 🎮 Write-Ups
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)
-
-#
-### 🔗 Connect With Me
-<a href="https://twitter.com/edwiiy">
-<img width="21px" src="https://simpleicons.org/icons/x.svg" />
-&nbsp;
-<a href="https://www.linkedin.com/in/edwin-vs-4432712a5/">
-<img width="21px" src="https://simpleicons.org/icons/linkedin.svg" />
-&nbsp;
-<a href="https://www.instagram.com/edwii.x/">
-<img width="21px" src="https://simpleicons.org/icons/instagram.svg" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)   
 
 #
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<a href="https://twitter.com/edwiiy">
-<img width="21px" src="https://simpleicons.org/icons/x.svg" />
-
