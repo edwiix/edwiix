@@ -8,13 +8,13 @@ Ethical hacker and penetration tester with a solid background in assessing and f
 
 Passionate Frontend Developer seeking to use technical proficiency and creativity to develop engaging user experiences and advance in a professional career.
 <br>
-<img align="right" alt="Edwin | Twitter" width="21px" src="https://simpleicons.org/icons/x.svg" />
+<img align="right" alt="Edwin | Twitter" width="20px" src="https://simpleicons.org/icons/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/edwin-vs-4432712a5/">
-<img align="right" alt="Edwin | LinkedIn" width="21px" src="https://simpleicons.org/icons/linkedin.svg" />
+<img align="right" alt="Edwin | LinkedIn" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/edwii.x/">
-<img align="right" alt="Edwin | LinkedIn" width="21px" src="https://simpleicons.org/icons/instagram.svg" />
+<img align="right" alt="Edwin | LinkedIn" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 
 #
