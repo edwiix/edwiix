@@ -47,9 +47,15 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=HackTheBox&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/HackTheBox)
 
 #
-### 💰 Gimme a Coffee
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/b4tm4n)
-<br>
+### 🔗 Connect With Me
+<a href="https://twitter.com/edwiiy">
+<img width="21px" src="https://simpleicons.org/icons/x.svg" />
+&nbsp;
+<a href="https://www.linkedin.com/in/edwin-vs-4432712a5/">
+<img width="21px" src="https://simpleicons.org/icons/linkedin.svg" />
+&nbsp;
+<a href="https://www.instagram.com/edwii.x/">
+<img width="21px" src="https://simpleicons.org/icons/instagram.svg" />
 
 #
 <p align="center">
