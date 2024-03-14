@@ -44,10 +44,6 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edwiix&repo=WeatherCheck&theme=catppuccin_latte&hide_border=false)](https://github.com/edwiix/WeatherCheck)
 
 #
-#### 💸 Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
-
-#
 ### 💰 Gimme a Coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/b4tm4n)
 <br>
