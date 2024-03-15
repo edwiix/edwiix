@@ -1,6 +1,6 @@
-<a href="https://edwiix.github.io/edwiix/"> <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/> </a>
+<a href="https://edwiix.github.io/EdwinPortfolio/"> <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"/> </a>
 
-# I'm [Edwin VS](https://edwiix.github.io/edwiix/) <a href="https://edwiix.github.io/edwiix/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# I'm [Edwin VS](https://edwiix.github.io/EdwinPortfolio/) <a href="https://edwiix.github.io/EdwinPortfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 **` CyberSecurity Enthusiastic | FrontEnd Developer `**
 
