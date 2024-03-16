@@ -14,9 +14,6 @@ Passionate Frontend Developer seeking to use technical proficiency and creativit
 <a href="https://www.linkedin.com/in/edwin-vs-4432712a5/">
 <img align="right" alt="Edwin | LinkedIn" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/edwii.x/">
-<img align="right" alt="Edwin | Instagram" width="20px" src="https://simpleicons.org/icons/instagram.svg" />
-</a>
 
 #
 ### 📺 I Do My Stuff With
